@@ -7,6 +7,10 @@ browser, and a mouse jiggler — all in one place, updating live while it's open
 Native Swift + SwiftUI, no dependencies. Universal binary (Apple Silicon + Intel),
 menu-bar only (no Dock icon).
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="MacControl panel showing Displays, Audio, System, and Mouse Jiggler controls" width="360">
+</p>
+
 ## Features
 
 - **Displays** — brightness per screen, including software dimming for external monitors
