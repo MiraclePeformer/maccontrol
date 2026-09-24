@@ -8,7 +8,7 @@ Native Swift + SwiftUI, no dependencies. Universal binary (Apple Silicon + Intel
 menu-bar only (no Dock icon).
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="MacControl panel showing Displays, Audio, System, and Mouse Jiggler controls" width="380">
+  <img src="docs/screenshot.png" alt="MacControl panel showing Displays, Audio, System, and Mouse Jiggler controls" width="480">
 </p>
 
 ## Features
