@@ -68,7 +68,6 @@ build.sh          build + package into .dmg
 
 ## License
 
-No license specified yet — all rights reserved by default. Add a `LICENSE` file if
-you want to make reuse terms explicit.
+Released under the [MIT License](LICENSE).
 
 Made by metr0.
