@@ -1,0 +1,11 @@
+# Build output (compiled app + .dmg) — ship these via GitHub Releases, not git
+build/
+
+# macOS
+.DS_Store
+
+# Xcode / SwiftPM (in case the project moves to them later)
+DerivedData/
+.build/
+*.xcuserstate
+xcuserdata/
